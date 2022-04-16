@@ -97,4 +97,4 @@ Udemy Free Course App With 2 API
 
 ## Contributors
 
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/itsherifAhmed/udemy_free_course/html-react-parser/graphs/contributors)
+[![](https://yt3.ggpht.com/AOBrTKwXRGbGx7EhSodEwT364r-TyuayV2LmwulX9XCt1JP0rOu95Mqf_orVpy1uSaUeun2E=s900-c-k-c0x00ffffff-no-rj)](https://github.com/itsherifAhmed/udemy_free_course/html-react-parser/graphs/contributors)
