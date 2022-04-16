@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168.736" height="146.136" viewBox="0 0 168.736 146.136">
+  <g id="Group_39" data-name="Group 39" transform="translate(-103.066 -308.864)">
+    <g id="Group_15" data-name="Group 15" transform="translate(-65.958 107)">
+      <path id="Path_141" data-name="Path 141" d="M391,181h13.293v59.82H391Z" transform="translate(-77.788 54.61)" fill="#f37592"/>
+      <path id="Path_142" data-name="Path 142" d="M197.527,245.41,151,226.794V182.831l46.526,18.616,46.526-18.616v43.963Z" transform="translate(55.865 53.59)" fill="#474f54"/>
+      <path id="Path_143" data-name="Path 143" d="M149.968,172.335,65.6,138.589l84.368-33.746,84.368,33.746Z" transform="translate(103.424 97.021)" fill="#575f64"/>
+    </g>
+    <text id="free_courses" data-name="free courses" transform="translate(187.5 447)" font-size="24" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-78" y="0">Free Courses</tspan></text>
+  </g>
+</svg>

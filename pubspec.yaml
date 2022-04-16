@@ -1,0 +1,51 @@
+name: udemyfreecourse
+description: A new Flutter application.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  google_fonts:
+  cached_network_image:
+  http:
+  share:
+  flutter_spinkit:
+  flutter_native_splash:
+  url_launcher:
+  webview_flutter:
+  flutter_svg:
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/logo.png
+  android: true
+  ios: true
+
+dependency_overrides:
+  platform: ^3.1.0
+
+flutter:
+  assets:
+    - assets/
+
+
+
+  uses-material-design: true
+
