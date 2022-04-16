@@ -92,3 +92,10 @@ Udemy Free Course App With 2 API
  -  `flutter_native_splash:`
  -  `url_launcher:`
  -  `webview_flutter:`
+
+
+## Contributors
+
+<a href="https://github.com/itsherifAhmed/udemy_free_course/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Hash-Studios/udemy_free_course" />
+</a>
