@@ -97,7 +97,4 @@ Udemy Free Course App With 2 API
 
 ## Contributors
 
-<a href="https://github.com/itsherifAhmed/udemy_free_course/graphs/contributors/">
-
-  <img src="https://contributors-img.web.app/image?repo=https://github.com/itsherifAhmed/udemy_free_course" />
-</a>
+[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/itsherifAhmed/udemy_free_course/html-react-parser/graphs/contributors)
