@@ -94,8 +94,10 @@ Udemy Free Course App With 2 API
  -  `webview_flutter:`
 
 
-## Contributors
 
-<a href="https://github.com/itsherifAhmed/udemy_free_course/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Hash-Studios/udemy_free_course" />
+  ## Contributors
+
+<a href="https://github.com/itsherifAhmed/udemy_free_course/graphs/contributors/">
+
+  <img src="https://contributors-img.web.app/image?repo=https://github.com/itsherifAhmed/udemy_free_course" />
 </a>
