@@ -53,7 +53,7 @@ Udemy Free Course App With 2 API
 
 | Splash Screen | Welcome Screen|
 |------|-------|
-|<img src="snapshot/splash.jpg" width="400">|<img src="snapshot/welcome.jpg" width="400">|
+|<img src="snapshot/splash.jpg" width="400">|<img src="snapshot/wecome.jpg" width="400">|
 
 | Home Page | Detail  Page|
 |------|-------|
@@ -85,18 +85,10 @@ Udemy Free Course App With 2 API
 
 ## Dependencies 💤
  -  `cached_network_image:`
- -
  -  `http:`
- -
  -  `GoogleFonts:`
- -
  -  `share:`
-
  -  `flutter_spinkit:`
-
  -  `flutter_native_splash:`
-
  -  `url_launcher:`
-
  -  `webview_flutter:`
- -
