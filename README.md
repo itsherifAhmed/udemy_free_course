@@ -8,8 +8,8 @@ Udemy Udemy Free Course App app is open-source  app for Android & ios. It is bui
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
-<p><img src="snapshot/recg.gif" /></p>
-<p align="center"><b>Udemy App </b></p>
+<p><img src="snapshot/hole.jpg" /></p>
+<p align="center"><b>Free Courses App</b></p>
 
 ##:rocket: youtube Tutorial
 
