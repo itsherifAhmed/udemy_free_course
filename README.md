@@ -101,5 +101,3 @@ Udemy Free Course App With 2 API
   <img src="https://github.com/itsherifAhmed.png?size=50">
 </a>
 
-
-https://avatars2.githubusercontent.com/u/10594555?s=460&v=4
