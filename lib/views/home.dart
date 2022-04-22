@@ -143,6 +143,7 @@ class _HomeState extends State<Home> {
                               imageURL: courses[index].image,
                               title: courses[index].heading,
                               courseURL: courses[index].courseLink,
+                              successRate: '',
 
                             );
                           }),

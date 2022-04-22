@@ -4,6 +4,6 @@ class CourseModel{
   String courseLink;
   String successRate;
 
-  CourseModel({this.heading,this.image,this.courseLink,this.successRate});
+  CourseModel({required this.heading,required this.image,required this.courseLink,required this.successRate});
 
 }

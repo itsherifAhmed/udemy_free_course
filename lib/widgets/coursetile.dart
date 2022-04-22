@@ -11,10 +11,10 @@ class CourseTile extends StatelessWidget {
   final String imageURL, title, courseURL, successRate;
 
   CourseTile(
-      { @required this.imageURL,
-  @required this.title,
-  @required this.courseURL,
-   this.successRate});
+      { required this.imageURL,
+  required this.title,
+  required this.courseURL,
+   required this.successRate});
 
   @override
   Widget build(BuildContext context) {

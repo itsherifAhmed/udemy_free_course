@@ -1,12 +1,10 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class CourseView extends StatefulWidget {
   final String  courseUrl;
-  CourseView({@required this.courseUrl});
+  CourseView({required this.courseUrl});
 
   @override
   _CourseViewState createState() => _CourseViewState();

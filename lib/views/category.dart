@@ -10,7 +10,7 @@ import '../widgets/coursetile.dart';
 
 class Category extends StatefulWidget {
   final String category;
-  Category({@required this.category});
+  Category({required this.category});
   @override
   _CategoryState createState() => _CategoryState();
 }

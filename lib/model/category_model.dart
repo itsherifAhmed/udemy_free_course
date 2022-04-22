@@ -1,8 +1,8 @@
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class CategoryModel{
-  String imageURL;
-  String categoryName;
-  Color color;
+  String imageURL="";
+  String categoryName="";
+  Color color=Colors.white;
 
 }

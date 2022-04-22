@@ -8,7 +8,7 @@ class CategoryTile extends StatelessWidget {
   final String imageURL, categoryName;
   final Color color;
 
-  CategoryTile({this.imageURL, this.categoryName, this.color});
+  CategoryTile({required this.imageURL, required this.categoryName, required this.color});
 
   @override
   Widget build(BuildContext context) {
